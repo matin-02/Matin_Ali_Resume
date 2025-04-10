@@ -1,0 +1,42 @@
+.languages-section {
+    padding: 30px 20px;
+  }
+  
+  .languages-section h2 {
+    font-size: 1.6rem;
+    color: #2c3e50;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-left: 4px solid #0073b1;
+    padding-left: 10px;
+  }
+  
+  .lang-icon {
+    color: #0073b1;
+    font-size: 1.4rem;
+  }
+  
+  .language-list {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  
+  .language-list span {
+    background-color: #f0f4f8;
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 0.95rem;
+    color: #333;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease;
+  }
+  
+  .language-list span:hover {
+    background-color: #0073b1;
+    color: #fff;
+    transform: scale(1.05);
+  }
+  

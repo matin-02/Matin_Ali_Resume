@@ -25,10 +25,10 @@ const Projects = () => (
       <div className="project-card">
         <h3>🗺️ Leaflet Map App</h3>
         <div className="project-links">
-          <a href="https://github.com/matin-02/Leaflet-Map-App" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/matin-02/React-LeafletMap" target="_blank" rel="noopener noreferrer">
             <FaGithub /> GitHub
           </a>
-          <a href="https://leaflet-map-app.vercel.app/" target="_blank" rel="noopener noreferrer">
+          <a href="https://react-leaflet-map-sand.vercel.app/" target="_blank" rel="noopener noreferrer">
             <FaExternalLinkAlt /> Live
           </a>
         </div>
